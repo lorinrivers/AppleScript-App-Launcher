@@ -3,7 +3,7 @@ AppleScript-App-Launcher
 
 An AppleScript for launching multiple applications that logs results to the Mac OS X system log.
 
-`
+```applescript
 --
 --	Created by: Lorin Rivers
 --	Created on: 02/10/14 10:25:38
@@ -64,4 +64,4 @@ on appLauncher(appName)
 		end if
 	end tell
 end appLauncher
-`
+```
